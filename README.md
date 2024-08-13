@@ -10,7 +10,7 @@ This is a password generator I created in Python, capable of generating 1-50 cha
   + Symbols
 + Copy the randomly generated password
 ### Python
-To run this project, Python must be installed. [Download Puyjon here](https://www.python.org/downloads/)
+To run this project, Python must be installed. [Download Python here](https://www.python.org/downloads/)
 
 1. Download Python 
 2. Run the file
